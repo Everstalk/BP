@@ -1,2 +1,2 @@
 # BP
-A repository to store the solutions to all my beginner python project
+A repository to store the solutions to all my beginner python projects.
